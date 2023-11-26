@@ -32,6 +32,7 @@ public class Snake extends JFrame {
         EventQueue.invokeLater(() -> {
             JFrame ex = new Snake();
             ex.setVisible(true);
+            //hgfghfgh
         });
     }
 }
